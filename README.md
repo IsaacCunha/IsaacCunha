@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif">
 
-Eu costumo trabalhar com as seguintes skills:
+Eu costumo trabalhar com as seguintes tecnologias:
 
 <section style="display: inline_block"><br>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
