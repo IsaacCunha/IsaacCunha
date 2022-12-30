@@ -15,4 +15,4 @@ Eu costumo trabalhar com as seguintes tecnologias:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacCunha&show_icons=true&theme=dark) <br> 
 
-![Snake animation](https://github.com/IsaacCunha/IsaacCunha/blob/output/github-contribuition-grid-snake.svg)
+![Snake animation](https://github.com/IsaacCunha/IsaacCunha/blob/output/github-contribution-grid-snake.svg)
