@@ -2,6 +2,11 @@
 
 <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif">
 
+No momento eu estou buscando um emprego ou qualquer meio de obter experiências, enquanto isso não acontece estarei criando projetos para portifólio.
+Atualmente tenho ensino médio completo e curso técnico concluido, TCC está disponivel aqui no github para visualização!
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Eu costumo trabalhar com as seguintes tecnologias:
 
 <section style="display: inline_block"><br>
@@ -12,6 +17,8 @@ Eu costumo trabalhar com as seguintes tecnologias:
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </section> <br>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacCunha&show_icons=true&theme=dark) <br> 
 
