@@ -1,6 +1,6 @@
-### Olá, eu sou o Isaac ✨❤️✨ seja bem vindo ao meu perfil!
+<h1> Olá, eu sou o Isaac ✨❤️✨ seja bem vindo ao meu perfil! </h1>
 
-<img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif">
+<img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" style="width: 200vh; height: 40vh;">
 
 No momento eu estou buscando um emprego ou qualquer meio de obter experiências, enquanto isso não acontece estarei criando projetos para portifólio.
 Atualmente tenho ensino médio completo e curso técnico concluido, TCC está disponivel aqui no github para visualização!
