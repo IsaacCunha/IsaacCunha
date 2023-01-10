@@ -5,6 +5,8 @@
 No momento eu estou buscando um emprego ou qualquer meio de obter experiências, enquanto isso não acontece estarei criando projetos para portifólio.
 Atualmente tenho ensino médio completo e curso técnico concluido, TCC está disponivel aqui no github para visualização!
 
+<strong>Neste exato momento estou me especializando em JavaScript</strong>
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Eu costumo trabalhar com as seguintes tecnologias:
