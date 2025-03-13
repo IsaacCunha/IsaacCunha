@@ -2,8 +2,9 @@
 
 <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" style="width: 200vh; height: 40vh;">
 
-No momento eu estou buscando um emprego ou qualquer meio de obter experiências, enquanto isso não acontece estarei criando projetos para portifólio.
-Atualmente tenho ensino médio completo e curso técnico concluido, TCC está disponivel aqui no github para visualização!
+Cursando Ensino Superior de Bacharelado em Técnologia da Informação.
+Curso técnico de Informática para Internet 100% Concluido(TCC disponível no GitHub).
+Ensino médio finalizado
 
 <strong>Neste exato momento estou me especializando em JavaScript</strong>
 
