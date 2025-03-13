@@ -2,9 +2,9 @@
 
 <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" style="width: 200vh; height: 40vh;">
 
-Cursando Ensino Superior de Bacharelado em Técnologia da Informação.
-Curso técnico de Informática para Internet 100% Concluido(TCC disponível no GitHub).
-Ensino médio finalizado
+Cursando Ensino Superior de Bacharelado em Técnologia da Informação.<br>
+Curso técnico de Informática para Internet 100% Concluido(TCC disponível no GitHub).<br>
+Ensino médio finalizado<br>
 
 <strong>Neste exato momento estou me especializando em JavaScript</strong>
 
